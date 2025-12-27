@@ -1,0 +1,7 @@
+{
+  "name": "Gestão BJJ  domingo 04",
+  "description": "Sistema boutique de gestão para academias de Jiu-Jitsu com foco em estética premium e inteligência operacional.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
